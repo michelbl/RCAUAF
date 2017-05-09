@@ -1,0 +1,135 @@
+creation_date	term	definition	user_name	source
+2017-03-02 10:23:56.063972	SIADE	Système Interne d'Api De l'Etat	alexis	glossbot-betagouv
+2017-03-15 15:40:27.050555	agefiph	Association de gestion du fonds pour l'insertion des personnes handicapées	alexis	glossbot-betagouv
+2016-06-15 17:22:40.451524	DAJ	Direction des Affaires Juridiques	colin	glossbot-betagouv
+2016-06-15 18:24:25.561624	PGO	Partenariat pour un Gouvernement Ouvert (OGP en anglais)	colin	glossbot-betagouv
+2016-06-28 12:03:53.436832	MENESR	Ministère de l'Éducation Nationale, de l'Enseignement Supérieur et de la Recherche	colin	glossbot-betagouv
+2016-09-05 13:42:07.977298	DJPEVA	Direction de la Jeunesse, de l'Education Populaire et de la Vie Associative	colin	glossbot-betagouv
+2016-10-19 10:01:22.410519	DcANT	Développement concerté de l'administration numérique territoriale	colin	glossbot-betagouv
+2016-10-19 10:05:24.082085	DGCL	Direction Générale des Collectivités Locales	colin	glossbot-betagouv
+2016-10-19 10:16:40.505424	UGAP	Union des Groupements d'Achats Public	colin	glossbot-betagouv
+2016-10-25 16:55:24.023465	CAO	Commission Appel d'Offres (marchés publics)	colin	glossbot-betagouv
+2016-10-25 17:01:36.356565	DRAAF	Direction Régionale de l'Alimentation, de l'Agriculture et de la Forêt	colin	glossbot-betagouv
+2017-01-11 15:02:35.126666	ANAH	Agence nationale de l'habitat	colin	glossbot-betagouv
+2017-01-11 15:03:18.771307	MDPH	Maison Départementale pour les Personnes Handicapées	colin	glossbot-betagouv
+2016-06-21 14:30:34.897002	IMPACT	Innover et moderniser les processus MDPH pour l’accès à la compensation sur les territoires	florian	glossbot-betagouv
+2017-04-20 09:15:46.06101	SIDSIC	Service interministériel départemental et systèmes d’information et de communication	florian	glossbot-betagouv
+2016-09-08 09:08:46.93596	CRAMIF	Caisse régionale d'assurance maladie d’Île de France	fpagnoux	glossbot-betagouv
+2017-04-19 15:17:15.478571	PR	Président de la République\r\nPull Request	gnovel	glossbot-betagouv
+2017-04-19 15:13:18.994833	bgv	beta.gouv.fr	gnovel	glossbot-betagouv
+2017-04-19 15:15:06.14152	ROTI	Return On Time Invested	gnovel	glossbot-betagouv
+2017-04-27 12:29:30.664543	ERP	Enterprise Resource Planning (progiciel de gestion intégré)	gnovel	glossbot-betagouv
+2017-04-27 12:28:31.382082	GRH	Gestion des Ressources Humaines	gnovel	glossbot-betagouv
+2017-04-27 13:38:03.778565	DGV	Data.gouv.fr	gnovel	glossbot-betagouv
+2017-05-04 07:35:48.666179	PIA	Programme d'Investissements d'Avenir	gnovel	glossbot-betagouv
+2016-09-06 15:54:37.155232	ML	Mission Locale ou Mailing List	hela	glossbot-betagouv
+2016-07-11 18:11:02.174938	pnds	Portail National des Droits sociaux	hela	glossbot-betagouv
+2016-10-25 10:01:08.710485	CGET	Commissariat général à l'égalité des territoires	hela	glossbot-betagouv
+2016-06-15 18:19:16.639487	MAPA	Marché à Procédure Adaptée	hussardnum	glossbot-betagouv
+2016-06-15 19:17:09.55128	MEEM	Ministère de l’Environnement, de l’Énergie et de la Mer	jerome	glossbot-betagouv
+2016-06-15 19:18:06.34924	MAAF	Ministère de l’Agriculture, de l’Agroalimentaire et de la Forêt	jerome	glossbot-betagouv
+2016-06-20 19:24:23.22916	DM	Direct message ou message privé	jerome	glossbot-betagouv
+2016-09-29 09:20:04.001624	ICPE	Installations Classées pour la Protection de l'Environnement	jerome	glossbot-betagouv
+2016-10-05 08:19:41.730473	DAP	Département Architecture et Projets (service de la DINSIC)	jerome	glossbot-betagouv
+2016-10-10 08:41:38.852879	RP	Relation Presse	jerome	glossbot-betagouv
+2016-11-15 07:58:58.75704	AAH	Allocation pour l'Adulte atteint de Handicap	jerome	glossbot-betagouv
+2017-01-17 15:04:50.691403	BOAMP	Bulletin Officiel des Annonces de Marchés Publics	jerome	glossbot-betagouv
+2016-06-15 17:06:30.496113	AGD	Administrateur Général des Données\r\nÉquipe de datascientists de la DINSIC qui travaille avec les données (ouvertes ou fermées) de l'administration.	mattisg	glossbot-betagouv
+2016-06-15 17:07:00.528538	cab	CABinet\r\nGroupe de conseillers d'un ministre, nommés par ce ministre.	mattisg	glossbot-betagouv
+2016-06-15 17:07:04.709076	CODIR	COmité de DIRection\r\nRéunion des moyen chefs.	mattisg	glossbot-betagouv
+2016-06-15 17:07:07.795065	COMEX	COMité EXécutif\r\nRéunion des grands chefs (C-level).	mattisg	glossbot-betagouv
+2016-06-15 17:07:10.663406	COPIL	COmité de PILotage\r\nRéunion des personnes impliquées dans la direction d'un projet.	mattisg	glossbot-betagouv
+2016-06-15 17:07:14.332041	CRAH	Compte-Rendu d'Activité Hebdomadaire	mattisg	glossbot-betagouv
+2016-06-15 17:07:17.935337	DAC	Directeur d'Administration Centrale\r\nPersonne ayant délégation de signature pouvant engager l'État. Moins de 200 en France.	mattisg	glossbot-betagouv
+2016-06-15 17:07:20.560894	DIAT	Direction Interministérielle d'Appui à la Transformation\r\nUne des deux divisions du SGMAP depuis septembre 2015.	mattisg	glossbot-betagouv
+2016-06-15 17:07:24.466063	DINSIC	Direction Interministérielle du Numérique et des Systèmes d'Information et de Communication\r\nUne des deux divisions du SGMAP depuis septembre 2015.	mattisg	glossbot-betagouv
+2016-06-15 17:07:27.657264	dircab	DIRecteur de CABinet\r\nVoir « cab ».	mattisg	glossbot-betagouv
+2016-06-15 17:07:30.45608	GT	Groupe de Travail	mattisg	glossbot-betagouv
+2016-06-15 17:07:33.708026	OGP	Open Government Parternship\r\nAssociation internationale de gouvernements engagés dans l'ouverture des données et de la gouvernance.	mattisg	glossbot-betagouv
+2016-06-15 17:07:39.888274	PM	Premier Ministre	mattisg	glossbot-betagouv
+2016-06-15 17:07:47.516126	RIE	Réseau Internet de l'État\r\nFournisseur d'accès à internet réservé à l'administration, avec infrastructure matérielle en propre (ou mutualisée RENATER). Un des départements de la DINSIC.	mattisg	glossbot-betagouv
+2016-06-15 17:07:50.355916	SG	Secrétaire Général·e\r\nCorrespondant administratif d'un·e secrétaire d'État (équivalent ministre).	mattisg	glossbot-betagouv
+2016-06-15 17:08:34.034465	SGMAP	Secrétariat Général pour la Modernisation de l’Action Publique\r\nL’administration qui héberge l’Incubateur de Services Numériques.	mattisg	glossbot-betagouv
+2016-06-24 17:12:04.66796	AFAQ	association française de l’assurance qualité	mattisg	glossbot-betagouv
+2016-06-24 17:12:12.559993	APPI	Application des Peines Probation Insertion (logiciel informatique - France)	mattisg	glossbot-betagouv
+2016-06-24 17:12:33.66191	CEDH	Convention européenne de sauvegarde des droits de l’homme et des libertés ou Cour européenne des droits de l’homme	mattisg	glossbot-betagouv
+2016-06-24 17:12:48.145906	CNCDH	commission nationale consultative des droits de l’homme	mattisg	glossbot-betagouv
+2016-06-24 17:13:04.958846	CSM	conseil supérieur de la magistrature	mattisg	glossbot-betagouv
+2016-06-24 17:13:14.97106	DISP	direction interrégionale des services pénitentiaires	mattisg	glossbot-betagouv
+2016-06-24 17:13:55.822139	ENA	école nationale d’administration\r\nLà où les élites dirigeantes sont formées. :bird:	mattisg	glossbot-betagouv
+2016-06-24 17:14:40.378297	RGPP	révision générale des politiques publiques\r\nFer de lance de l’ancêtre du SGMAP.	mattisg	glossbot-betagouv
+2016-06-24 17:14:52.664723	SPIP	service pénitentiaire d’insertion et de probation	mattisg	glossbot-betagouv
+2016-08-02 16:42:50.560147	PPP	Préfecture de Police de Paris	mattisg	glossbot-betagouv
+2016-06-27 04:45:51.867863	USI	Unexpected Sources of Inspiration\r\nConférence annuelle et très chère d’Octo Technology	mattisg	glossbot-betagouv
+2016-09-28 10:44:02.32576	ANN	Agence Nationale du Numérique	mattisg	glossbot-betagouv
+2016-09-28 10:44:18.410634	ANSA	Agence Nouvelle des Solidarités Actives	mattisg	glossbot-betagouv
+2016-10-05 08:28:28.229288	MAEDI	Ministère des Affaires étrangères et du Développement International	mattisg	glossbot-betagouv
+2016-10-25 10:03:34.01144	CGET	Commissariat Général à l'Égalité des Territoires	mattisg	glossbot-betagouv
+2016-11-07 16:50:47.193381	PIF	Presidential Innovation Fellows\r\nL’équivalent des Entrepreneurs d’intérêt général aux US, en plus volontariste. Existe depuis 2012.\r\nVoir plus sur https://presidentialinnovationfellows.gov	mattisg	glossbot-betagouv
+2016-11-15 08:45:59.055799	CNOUS	Centre national des œuvres universitaires et scolaires\r\nLa version nationale des CROUS, qui gère les bourses, les logements universitaires…	mattisg	glossbot-betagouv
+2016-11-22 08:39:24.477936	PPNG	Plan Préféctures Nouvelle Génération\r\nGrand plan de modernisation amorcé en 2012, qui passe notamment par la dématérialisation des procédures et la fermeture de guichets.	mattisg	glossbot-betagouv
+2017-02-02 17:00:33.587449	DDCS	Direction Départementale de la Cohésion Sociale	mattisg	glossbot-betagouv
+2017-03-07 16:49:40.148986	EDL	Éléments de langage	mattisg	glossbot-betagouv
+2016-06-15 19:47:22.316317	FTW	For the whale!	maukoquiroga	glossbot-betagouv
+2016-06-16 10:02:13.801076	PE	Pôle emploi	maukoquiroga	glossbot-betagouv
+2016-06-16 10:04:00.196707	APEC	Association pour l'emploi des cadres	maukoquiroga	glossbot-betagouv
+2016-06-16 10:10:00.640802	CIO	Centres d'information et d'orientation	maukoquiroga	glossbot-betagouv
+2016-06-16 10:10:48.583315	BAIP	Bureau d'aide à l'insertion professionnelle	maukoquiroga	glossbot-betagouv
+2016-06-16 10:12:56.575371	PIJ	Points d’information jeunesse	maukoquiroga	glossbot-betagouv
+2016-06-16 10:13:32.682149	BIJ	Bureaux d’information jeunesse	maukoquiroga	glossbot-betagouv
+2016-06-16 10:16:52.319207	DE	Demanderesse ou demandeur d’emploi ; sans emploi​	maukoquiroga	glossbot-betagouv
+2016-06-16 10:18:20.513086	SPO	Service public de l’orientation	maukoquiroga	glossbot-betagouv
+2016-06-16 10:19:09.133957	CEP	Conseil en évolution professionnelle	maukoquiroga	glossbot-betagouv
+2016-06-16 10:20:38.283639	CIP	Conseiller en insertion professionnelle	maukoquiroga	glossbot-betagouv
+2016-06-16 10:21:48.210771	OPACIF	Organisme paritaire agréé au titre du congé individuel de formation	maukoquiroga	glossbot-betagouv
+2016-06-16 10:24:24.708415	OPCA	Organismes collecteurs paritaires agréés	maukoquiroga	glossbot-betagouv
+2016-06-16 10:25:33.088168	CIF	Congé individuel de formation	maukoquiroga	glossbot-betagouv
+2016-06-16 10:14:12.672138	IJ	Information jeunesse	maukoquiroga	glossbot-betagouv
+2016-06-16 10:15:04.468237	CRIJ	Centre régional information jeunesse	maukoquiroga	glossbot-betagouv
+2016-06-16 10:16:32.144517	SUIO	Service universitaire d'information et d’orientation ; Service universitaire d'insertion et d'orientation	maukoquiroga	glossbot-betagouv
+2016-06-16 10:18:48.677551	SPRO	Service public régional de l’orientation	maukoquiroga	glossbot-betagouv
+2016-06-16 10:19:35.1151	APE	Agences pôle emploi	maukoquiroga	glossbot-betagouv
+2016-06-16 10:24:58.502087	DELD	Demandeur d’emploi longue durée	maukoquiroga	glossbot-betagouv
+2016-06-16 10:26:47.04378	DIF	Droit individuel à la formation	maukoquiroga	glossbot-betagouv
+2016-06-16 10:26:58.15833	CPF	Compte personnel de formation	maukoquiroga	glossbot-betagouv
+2016-06-16 10:32:24.212638	CUIO	Centres universitaires d'information et d'orientation	maukoquiroga	glossbot-betagouv
+2016-06-20 14:20:11.187697	DGE	Direction générale des entreprises	maukoquiroga	glossbot-betagouv
+2016-06-20 14:24:29.493873	DGCS	Direction générale de la cohésion sociale	maukoquiroga	glossbot-betagouv
+2016-06-20 14:26:45.996307	CNSA	Caisse nationale de solidarité pour l'autonomie	maukoquiroga	glossbot-betagouv
+2016-06-20 14:27:23.191223	CNAV	Caisse nationale d'assurance vieillesse	maukoquiroga	glossbot-betagouv
+2016-06-20 20:45:09.042229	WTH	What the heck, what the hell, what the hail, what the hale, what the ham, what the hank, what the hay, what the heo, what hey, what the hip, what the ho, what the hoof, what the hull, etc…	maukoquiroga	glossbot-betagouv
+2016-06-22 18:05:50.159263	NIIOMTPLABOPARMBETZHELBETRABSBOMONIMONKONOTDTEKHSTROMONT	The laboratory for shuttering, reinforcement, concrete and ferroconcrete operations for composite-monolithic and monolithic constructions of the Department of the Technology of Building-assembly operations of the Scientific Research Institute of the Organization for building mechanization and technical aid of the Academy of Building and Architecture of the USSR	maukoquiroga	glossbot-betagouv
+2016-07-13 14:03:05.531564	wdf	What the (da) fuck	maukoquiroga	glossbot-betagouv
+2016-07-20 09:45:27.123077	CPA	1. Compte personnel d’activité ; 2. Cessation progressive d’activité	maukoquiroga	glossbot-betagouv
+2016-07-20 09:53:54.235752	MOA	Maîtrise d'ouvrage	maukoquiroga	glossbot-betagouv
+2016-07-20 09:56:32.992356	AMOA	Assistance à la maîtrise d’ouvrage (cf. http://bit.ly/amoa1234)	maukoquiroga	glossbot-betagouv
+2016-07-20 10:12:38.12211	SGMCAS	Secrétariat général des ministères chargés des affaires sociales	maukoquiroga	glossbot-betagouv
+2016-11-16 13:03:39.57041	DLNUF	Dites-le-nous une fois	maukoquiroga	glossbot-betagouv
+2017-01-10 09:09:26.610346	KDS	keep-drop-start	maukoquiroga	glossbot-betagouv
+2017-02-27 13:26:26.226902	SJW	Social Justice Warrior	maukoquiroga	glossbot-betagouv
+2016-07-22 07:58:13.975054	MIPNES	Mission de la pédagogie et du numérique pour l'enseignement supérieur	nicolas	glossbot-betagouv
+2016-08-03 14:19:30.751115	CNEE	Conseil National Éducation Économie	nicolas	glossbot-betagouv
+2017-02-24 10:10:58.534065	APB	‘Admission Post Bac'	nicolas	glossbot-betagouv
+2017-03-07 13:42:26.961713	AAPC	'Avis d'Appel Public à la Concurrence'	nicolas	glossbot-betagouv
+2017-04-20 17:22:04.639413	DoD	Definition of Done	nicolas	glossbot-betagouv
+2016-06-15 17:41:30.959131	spd	Service Public de la Donnée	thibaut	glossbot-betagouv
+2016-07-13 14:02:22.250012	WDYT	What Do You Think ?	thibaut	glossbot-betagouv
+2016-08-02 17:07:44.912977	DGFIP	Direction Générale des Finances publiques	thibaut	glossbot-betagouv
+2016-08-02 17:06:03.902306	RC	Release Candidate	twickham	glossbot-betagouv
+2016-06-21 14:27:11.540191	CDN	Content Delivery Network	vince	glossbot-betagouv
+2016-07-01 11:11:58.183293	PEPITE	Pôles Etudiants Pour l'Innovation, le Transfert et l'Entrepreneuriat	vince	glossbot-betagouv
+2016-07-01 11:13:09.749208	RGS	Référentiel Général de Sécurité	vince	glossbot-betagouv
+2016-07-01 13:11:59.390237	FUD	Fear, uncertainty and doubt	vince	glossbot-betagouv
+2016-07-07 08:37:03.25276	ELD	Éléments de Langage et de Discours	vince	glossbot-betagouv
+2016-07-13 17:01:32.861004	AFAIK	As Far As I Know	vince	glossbot-betagouv
+2016-08-05 07:28:14.172575	SNA	Service national de l’adresse	vince	glossbot-betagouv
+2016-09-15 15:18:24.697152	SOTM	State Of The Map (Conférence annuelle des contributeurs OpenStreetMap)	vince	glossbot-betagouv
+2016-10-10 12:29:57.268588	CP	Crédits de Paiement	vince	glossbot-betagouv
+2016-10-10 12:30:28.13979	AE	Autorisation d'Engagement	vince	glossbot-betagouv
+2016-11-18 09:09:39.672177	ACOSS	Agence Centrale des Organismes de Sécurité Sociale	vince	glossbot-betagouv
+2016-11-18 09:10:30.672816	DSN	Déclaration Sociale Nominative	vince	glossbot-betagouv
+2017-01-12 20:01:26.455889	AFAFAF	Associations Foncières d’Aménagement Foncier Agricole et Forestier	vince	glossbot-betagouv
+2017-01-12 20:02:14.649125	ASA	Associations Syndicales Autorisées	vince	glossbot-betagouv
+2017-01-12 20:03:46.66628	EPCA	Etablissement Public à Caractère Administratif	vince	glossbot-betagouv
+2017-02-15 16:28:32.073162	AAI	Autorité Administrative Indépendante	vince	glossbot-betagouv
+2017-03-10 08:45:09.525449	fu2	Followup-To (https://tools.ietf.org/html/rfc1036#section-2.2.3)	vince	glossbot-betagouv
