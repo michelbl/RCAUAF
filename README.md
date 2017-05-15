@@ -5,8 +5,9 @@ Ce répertoire est une modeste tentative pour rendre plus intelligible le dialec
 
 
 ## Utilisation
-
-Ce glossaire est utilisé par un robot [mastodon-glossary-bot](https://github.com/michelbl/mastodon-glossary-bot) sur [l'instance mastodon de l'administration](https://mastodon.etalab.gouv.fr) : https://mastodon.etalab.gouv.fr/@WTF
+Ce glossaire est utilisé par
+* un robot [mastodon-glossary-bot](https://github.com/michelbl/mastodon-glossary-bot) sur [l'instance mastodon de l'administration](https://mastodon.etalab.gouv.fr) : https://mastodon.etalab.gouv.fr/@WTF
+* [GouvCronym][gouvcronym], un userscript qui décrypte les acronymes à la volée sur les sites en *.gouv.fr* (à propos des [userscripts][greasemonkey])
 
 Vous pouvez également utiliser ce glossaire comme bon vous semble.
 
@@ -21,3 +22,6 @@ Pour l'instant, le mécanisme de contribution est la Pull Request (PR). Une PR p
 ## Licence
 
 CC0
+
+[gouvcronym]:https://framagit.org/sycom/userScripts/raw/master/GouvCronyme.user.js
+[greasemonkey]:https://fr.wikipedia.org/wiki/Greasemonkey
