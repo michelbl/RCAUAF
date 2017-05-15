@@ -35,58 +35,39 @@
 "2016-10-10 08:41:38.852879","RP","Relation Presse","jerome","glossbot-betagouv"
 "2016-11-15 07:58:58.75704","AAH","Allocation pour l'Adulte atteint de Handicap","jerome","glossbot-betagouv"
 "2017-01-17 15:04:50.691403","BOAMP","Bulletin Officiel des Annonces de Marchés Publics","jerome","glossbot-betagouv"
-"2016-06-15 17:06:30.496113","AGD","Administrateur Général des Données
-Équipe de datascientists de la DINSIC qui travaille avec les données (ouvertes ou fermées) de l'administration.","mattisg","glossbot-betagouv"
-"2016-06-15 17:07:00.528538","cab","CABinet
-Groupe de conseillers d'un ministre, nommés par ce ministre.","mattisg","glossbot-betagouv"
-"2016-06-15 17:07:04.709076","CODIR","COmité de DIRection
-Réunion des moyen chefs.","mattisg","glossbot-betagouv"
-"2016-06-15 17:07:07.795065","COMEX","COMité EXécutif
-Réunion des grands chefs (C-level).","mattisg","glossbot-betagouv"
-"2016-06-15 17:07:10.663406","COPIL","COmité de PILotage
-Réunion des personnes impliquées dans la direction d'un projet.","mattisg","glossbot-betagouv"
+"2016-06-15 17:06:30.496113","AGD","Administrateur Général des Données - Équipe de datascientists de la DINSIC qui travaille avec les données (ouvertes ou fermées) de l'administration.","mattisg","glossbot-betagouv"
+"2016-06-15 17:07:00.528538","cab","CABinet - Groupe de conseillers d'un ministre, nommés par ce ministre.","mattisg","glossbot-betagouv"
+"2016-06-15 17:07:04.709076","CODIR","COmité de DIRection - Réunion des moyen chefs.","mattisg","glossbot-betagouv"
+"2016-06-15 17:07:07.795065","COMEX","COMité EXécutif - Réunion des grands chefs (C-level).","mattisg","glossbot-betagouv"
+"2016-06-15 17:07:10.663406","COPIL","COmité de PILotage - Réunion des personnes impliquées dans la direction d'un projet.","mattisg","glossbot-betagouv"
 "2016-06-15 17:07:14.332041","CRAH","Compte-Rendu d'Activité Hebdomadaire","mattisg","glossbot-betagouv"
-"2016-06-15 17:07:17.935337","DAC","Directeur d'Administration Centrale
-Personne ayant délégation de signature pouvant engager l'État. Moins de 200 en France.","mattisg","glossbot-betagouv"
-"2016-06-15 17:07:20.560894","DIAT","Direction Interministérielle d'Appui à la Transformation
-Une des deux divisions du SGMAP depuis septembre 2015.","mattisg","glossbot-betagouv"
-"2016-06-15 17:07:24.466063","DINSIC","Direction Interministérielle du Numérique et des Systèmes d'Information et de Communication
-Une des deux divisions du SGMAP depuis septembre 2015.","mattisg","glossbot-betagouv"
-"2016-06-15 17:07:27.657264","dircab","DIRecteur de CABinet
-Voir « cab ».","mattisg","glossbot-betagouv"
+"2016-06-15 17:07:17.935337","DAC","Directeur d'Administration Centrale - Personne ayant délégation de signature pouvant engager l'État. Moins de 200 en France.","mattisg","glossbot-betagouv"
+"2016-06-15 17:07:20.560894","DIAT","Direction Interministérielle d'Appui à la Transformation - Une des deux divisions du SGMAP depuis septembre 2015.","mattisg","glossbot-betagouv"
+"2016-06-15 17:07:24.466063","DINSIC","Direction Interministérielle du Numérique et des Systèmes d'Information et de Communication - Une des deux divisions du SGMAP depuis septembre 2015.","mattisg","glossbot-betagouv"
+"2016-06-15 17:07:27.657264","dircab","DIRecteur de CABinet - Voir « cab ».","mattisg","glossbot-betagouv"
 "2016-06-15 17:07:30.45608","GT","Groupe de Travail","mattisg","glossbot-betagouv"
-"2016-06-15 17:07:33.708026","OGP","Open Government Parternship
-Association internationale de gouvernements engagés dans l'ouverture des données et de la gouvernance.","mattisg","glossbot-betagouv"
+"2016-06-15 17:07:33.708026","OGP","Open Government Parternship - Association internationale de gouvernements engagés dans l'ouverture des données et de la gouvernance.","mattisg","glossbot-betagouv"
 "2016-06-15 17:07:39.888274","PM","Premier Ministre","mattisg","glossbot-betagouv"
-"2016-06-15 17:07:47.516126","RIE","Réseau Internet de l'État
-Fournisseur d'accès à internet réservé à l'administration, avec infrastructure matérielle en propre (ou mutualisée RENATER). Un des départements de la DINSIC.","mattisg","glossbot-betagouv"
-"2016-06-15 17:07:50.355916","SG","Secrétaire Général·e
-Correspondant administratif d'un·e secrétaire d'État (équivalent ministre).","mattisg","glossbot-betagouv"
-"2016-06-15 17:08:34.034465","SGMAP","Secrétariat Général pour la Modernisation de l’Action Publique
-L’administration qui héberge l’Incubateur de Services Numériques.","mattisg","glossbot-betagouv"
+"2016-06-15 17:07:47.516126","RIE","Réseau Internet de l'État - Fournisseur d'accès à internet réservé à l'administration, avec infrastructure matérielle en propre (ou mutualisée RENATER). Un des départements de la DINSIC.","mattisg","glossbot-betagouv"
+"2016-06-15 17:07:50.355916","SG","Secrétaire Général·e - Correspondant administratif d'un·e secrétaire d'État (équivalent ministre).","mattisg","glossbot-betagouv"
+"2016-06-15 17:08:34.034465","SGMAP","Secrétariat Général pour la Modernisation de l’Action Publique - L’administration qui héberge l’Incubateur de Services Numériques.","mattisg","glossbot-betagouv"
 "2016-06-24 17:12:04.66796","AFAQ","association française de l’assurance qualité","mattisg","glossbot-betagouv"
 "2016-06-24 17:12:12.559993","APPI","Application des Peines Probation Insertion (logiciel informatique - France)","mattisg","glossbot-betagouv"
 "2016-06-24 17:12:33.66191","CEDH","Convention européenne de sauvegarde des droits de l’homme et des libertés ou Cour européenne des droits de l’homme","mattisg","glossbot-betagouv"
 "2016-06-24 17:12:48.145906","CNCDH","commission nationale consultative des droits de l’homme","mattisg","glossbot-betagouv"
 "2016-06-24 17:13:04.958846","CSM","conseil supérieur de la magistrature","mattisg","glossbot-betagouv"
 "2016-06-24 17:13:14.97106","DISP","direction interrégionale des services pénitentiaires","mattisg","glossbot-betagouv"
-"2016-06-24 17:13:55.822139","ENA","école nationale d’administration
-Là où les élites dirigeantes sont formées. :bird:","mattisg","glossbot-betagouv"
-"2016-06-24 17:14:40.378297","RGPP","révision générale des politiques publiques
-Fer de lance de l’ancêtre du SGMAP.","mattisg","glossbot-betagouv"
+"2016-06-24 17:13:55.822139","ENA","école nationale d’administration - Là où les élites dirigeantes sont formées. :bird:","mattisg","glossbot-betagouv"
+"2016-06-24 17:14:40.378297","RGPP","révision générale des politiques publiques - Fer de lance de l’ancêtre du SGMAP.","mattisg","glossbot-betagouv"
 "2016-06-24 17:14:52.664723","SPIP","service pénitentiaire d’insertion et de probation","mattisg","glossbot-betagouv"
 "2016-08-02 16:42:50.560147","PPP","Préfecture de Police de Paris","mattisg","glossbot-betagouv"
 "2016-09-28 10:44:02.32576","ANN","Agence Nationale du Numérique","mattisg","glossbot-betagouv"
 "2016-09-28 10:44:18.410634","ANSA","Agence Nouvelle des Solidarités Actives","mattisg","glossbot-betagouv"
 "2016-10-05 08:28:28.229288","MAEDI","Ministère des Affaires étrangères et du Développement International","mattisg","glossbot-betagouv"
 "2016-10-25 10:03:34.01144","CGET","Commissariat Général à l'Égalité des Territoires","mattisg","glossbot-betagouv"
-"2016-11-07 16:50:47.193381","PIF","Presidential Innovation Fellows
-L’équivalent des Entrepreneurs d’intérêt général aux US, en plus volontariste. Existe depuis 2012.
-Voir plus sur https://presidentialinnovationfellows.gov","mattisg","glossbot-betagouv"
-"2016-11-15 08:45:59.055799","CNOUS","Centre national des œuvres universitaires et scolaires
-La version nationale des CROUS, qui gère les bourses, les logements universitaires…","mattisg","glossbot-betagouv"
-"2016-11-22 08:39:24.477936","PPNG","Plan Préféctures Nouvelle Génération
-Grand plan de modernisation amorcé en 2012, qui passe notamment par la dématérialisation des procédures et la fermeture de guichets.","mattisg","glossbot-betagouv"
+"2016-11-07 16:50:47.193381","PIF","Presidential Innovation Fellows - L’équivalent des Entrepreneurs d’intérêt général aux US, en plus volontariste. Existe depuis 2012. - Voir plus sur https://presidentialinnovationfellows.gov","mattisg","glossbot-betagouv"
+"2016-11-15 08:45:59.055799","CNOUS","Centre national des œuvres universitaires et scolaires - La version nationale des CROUS, qui gère les bourses, les logements universitaires…","mattisg","glossbot-betagouv"
+"2016-11-22 08:39:24.477936","PPNG","Plan Préféctures Nouvelle Génération - Grand plan de modernisation amorcé en 2012, qui passe notamment par la dématérialisation des procédures et la fermeture de guichets.","mattisg","glossbot-betagouv"
 "2017-02-02 17:00:33.587449","DDCS","Direction Départementale de la Cohésion Sociale","mattisg","glossbot-betagouv"
 "2017-03-07 16:49:40.148986","EDL","Éléments de langage","mattisg","glossbot-betagouv"
 "2016-06-15 19:47:22.316317","FTW","For the whale!","maukoquiroga","glossbot-betagouv"
