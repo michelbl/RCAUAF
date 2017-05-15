@@ -20,4 +20,4 @@ Pour l'instant, le mécanisme de contribution est la Pull Request (PR). Une PR p
 
 ## Licence
 
-WTFPL
+CC0
