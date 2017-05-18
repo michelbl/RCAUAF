@@ -1,17 +1,14 @@
 "term","definition","user_name","source","creation_date","doublons"
 "AAEXA","Assurance accident des exploitants agricoles","sycom","git","2017-05-18 09:00:00.000000",0
-"AAH","Allocation pour l'Adulte atteint de Handicap","jerome","glossbot-betagouv","2016-11-15 07:58:58.75704","-"
-"AAH","Allocation aux adultes handicapés","sycom","git","2017-05-18 09:00:00.000000",1
-"AAI","Autorité Administrative Indépendante","vince","glossbot-betagouv","2017-02-15 16:28:32.073162","-"
-"AAI","Autorités administratives indépendantes","sycom","git","2017-05-18 09:00:00.000000",1
-"AAPC","'Avis d'Appel Public à la Concurrence'","nicolas","glossbot-betagouv","2017-03-07 13:42:26.961713","-"
+"AAH","Allocation aux adultes handicapés","jerome","glossbot-betagouv","2016-11-15 07:58:58.75704","-"
+"AAI","Autorité(s) administrative(s) indépendante(s)","vince","glossbot-betagouv","2017-02-15 16:28:32.073162","-"
+"AAPC","Avis d'Appel Public à la Concurrence","nicolas","glossbot-betagouv","2017-03-07 13:42:26.961713","-"
 "ACAATA","Allocation de cessation anticipée d'activité des travailleurs de l'amiante","sycom","git","2017-05-18 09:00:00.000000",0
 "ACBUS","Accord de bon usage des soins","sycom","git","2017-05-18 09:00:00.000000",0
 "ACCA","Associations communales de chasse agréées","sycom","git","2017-05-18 09:00:00.000000",0
 "ACCRE","Aide aux chômeurs créateurs ou repreneurs d'entreprise","sycom","git","2017-05-18 09:00:00.000000",0
 "ACOFA","Agence centrale des organismes d'intervention dans le secteur agricole","sycom","git","2017-05-18 09:00:00.000000",0
 "ACOSS","Agence Centrale des Organismes de Sécurité Sociale","vince","glossbot-betagouv","2016-11-18 09:09:39.672177","-"
-"ACOSS","Agence centrale des organismes de sécurité sociale","sycom","git","2017-05-18 09:00:00.000000",1
 "ACP (pays)","Pays d'Afrique, des Caraïbes et du Pacifique","sycom","git","2017-05-18 09:00:00.000000",0
 "ACSE","Agence nationale pour la cohésion sociale et l'égalité des chances","sycom","git","2017-05-18 09:00:00.000000",0
 "ACTA","Association de coordination technique agricole","sycom","git","2017-05-18 09:00:00.000000",0
@@ -69,7 +66,6 @@
 "AGEAM","Association pour la gérance d'écoles d'apprentissage maritime","sycom","git","2017-05-18 09:00:00.000000",0
 "AGEFAL","Association de gestion du fonds des formations en alternance","sycom","git","2017-05-18 09:00:00.000000",0
 "agefiph","Association de gestion du fonds pour l'insertion des personnes handicapées","alexis","glossbot-betagouv","2017-03-15 15:40:27.050555","-"
-"AGEFIPH","Association de gestion du fonds pour l'insertion professionnelle des personnes handicapées","sycom","git","2017-05-18 09:00:00.000000",1
 "AGGIR","(Grille) autonomie gérontologie groupe iso-ressources","sycom","git","2017-05-18 09:00:00.000000",0
 "AGIRA","Association pour la gestion des informations relatives aux risques en assurance","sycom","git","2017-05-18 09:00:00.000000",0
 "AGIRC","Association générale des institutions de retraites des cadres","sycom","git","2017-05-18 09:00:00.000000",0
@@ -94,8 +90,7 @@
 "ANACT","Agence nationale pour l'amélioration des conditions de travail","sycom","git","2017-05-18 09:00:00.000000",0
 "ANAEM","Agence nationale d'accueil des étrangers et des migrations","sycom","git","2017-05-18 09:00:00.000000",0
 "ANAES","Agence nationale d'accréditation et d'évaluation en santé","sycom","git","2017-05-18 09:00:00.000000",0
-"ANAH","Agence nationale de l'habitat","colin","glossbot-betagouv","2017-01-11 15:02:35.126666","-"
-"ANAH","Agence nationale pour l'amélioration de l'habitat","sycom","git","2017-05-18 09:00:00.000000",1
+"ANAH","Agence nationale pour l'amélioration de l'habitat","colin","glossbot-betagouv","2017-01-11 15:02:35.126666","-"
 "ANCE","Agence nationale pour la création d'entreprises","sycom","git","2017-05-18 09:00:00.000000",0
 "ANCSEC","Agence nationale pour la cohésion sociale et l'égalité des chances","sycom","git","2017-05-18 09:00:00.000000",0
 "ANDA","Association nationale pour le développement agricole","sycom","git","2017-05-18 09:00:00.000000",0
@@ -113,7 +108,6 @@
 "ANRED","Agence nationale pour la récupération et l'élimination des déchets","sycom","git","2017-05-18 09:00:00.000000",0
 "ANRU","Agence nationale pour la rénovation urbaine","sycom","git","2017-05-18 09:00:00.000000",0
 "ANSA","Agence Nouvelle des Solidarités Actives","mattisg","glossbot-betagouv","2016-09-28 10:44:18.410634","-"
-"ANSA","Agence nouvelle des solidarités actives","sycom","git","2017-05-18 09:00:00.000000",1
 "ANT","Agence nationale pour l'insertion et la promotion des travailleurs d'outre-mer","sycom","git","2017-05-18 09:00:00.000000",0
 "ANVAR","Agence nationale de valorisation de la recherche","sycom","git","2017-05-18 09:00:00.000000",0
 "AOC","Appellation d'origine contrôlée","sycom","git","2017-05-18 09:00:00.000000",0
@@ -124,8 +118,7 @@
 "APD","Aide publique au développement","sycom","git","2017-05-18 09:00:00.000000",0
 "APE","Agences pôle emploi","maukoquiroga","glossbot-betagouv","2016-06-16 10:19:35.1151","-"
 "APE","Allocation parentale d'éducation","sycom","git","2017-05-18 09:00:00.000000",1
-"APEC","Association pour l'emploi des cadres","maukoquiroga","glossbot-betagouv","2016-06-16 10:04:00.196707","-"
-"APEC","Association pour l'emploi des cadres, ingénieurs et techniciens","sycom","git","2017-05-18 09:00:00.000000",1
+"APEC","Association pour l'emploi des cadres, ingénieurs et techniciens","maukoquiroga","glossbot-betagouv","2016-06-16 10:04:00.196707","-"
 "APEGH","Agence de la procréation, de l'embryologie et de la génétique humaines","sycom","git","2017-05-18 09:00:00.000000",0
 "API","Allocation de parent isolé","sycom","git","2017-05-18 09:00:00.000000",0
 "APIDPM","Autorités publiques indépendantes dotées de la personnalité morale","sycom","git","2017-05-18 09:00:00.000000",0
@@ -385,8 +378,7 @@
 "CNME","Caisse nationale des marchés de l'État","sycom","git","2017-05-18 09:00:00.000000",0
 "CNNC","Commission nationale de la négociation collective","sycom","git","2017-05-18 09:00:00.000000",0
 "CNOSF","Comité national olympique du sport français","sycom","git","2017-05-18 09:00:00.000000",0
-"CNOUS","Centre national des œuvres universitaires et scolaires - La version nationale des CROUS, qui gère les bourses, les logements universitaires…","mattisg","glossbot-betagouv","2016-11-15 08:45:59.055799","-"
-"CNOUS","Centre national des oeuvres universitaires et scolaires","sycom","git","2017-05-18 09:00:00.000000",1
+"CNOUS","Centre national des œuvres universitaires et scolaires (La version nationale des CROUS, qui gère les bourses, les logements universitaires…)","mattisg","glossbot-betagouv","2016-11-15 08:45:59.055799","-"
 "CNPF","Conseil national du patronat français (voir MEDEF).","sycom","git","2017-05-18 09:00:00.000000",0
 "CNPPF","Centre national professionnel de la propriété forestière","sycom","git","2017-05-18 09:00:00.000000",0
 "CNR","Compagnie nationale du Rhône","sycom","git","2017-05-18 09:00:00.000000",0
@@ -394,7 +386,6 @@
 "CNRS","Centre national de la recherche scientifique","sycom","git","2017-05-18 09:00:00.000000",0
 "CNS","Conférence nationale de santé","sycom","git","2017-05-18 09:00:00.000000",0
 "CNSA","Caisse nationale de solidarité pour l'autonomie","maukoquiroga","glossbot-betagouv","2016-06-20 14:26:45.996307","-"
-"CNSA","Caisse nationale de solidarité pour l'autonomie","sycom","git","2017-05-18 09:00:00.000000",1
 "CNTA","Comptoir national technique agricole","sycom","git","2017-05-18 09:00:00.000000",0
 "CNUCED","Conférence des Nations unies pour le commerce et le développement","sycom","git","2017-05-18 09:00:00.000000",0
 "CNV","Conseil national des villes","sycom","git","2017-05-18 09:00:00.000000",0
@@ -515,7 +506,6 @@
 "DGCCRF","Direction générale de la concurrence, de la consommation et de la répression des fraudes","sycom","git","2017-05-18 09:00:00.000000",0
 "DGCID","Direction générale de la coopération internationale et du développement","sycom","git","2017-05-18 09:00:00.000000",0
 "DGCL","Direction Générale des Collectivités Locales","colin","glossbot-betagouv","2016-10-19 10:05:24.082085","-"
-"DGCL","Direction générale des collectivités locales","sycom","git","2017-05-18 09:00:00.000000",1
 "DGCS","Direction générale de la cohésion sociale","maukoquiroga","glossbot-betagouv","2016-06-20 14:24:29.493873","-"
 "DGD","Dotation générale de décentralisation","sycom","git","2017-05-18 09:00:00.000000",0
 "DGE","Direction générale des entreprises","maukoquiroga","glossbot-betagouv","2016-06-20 14:20:11.187697","-"
@@ -534,7 +524,6 @@
 "DICCILEC","Direction centrale du contrôle de l'immigration et de lutte contre l'emploi des clandestins (voir PAF)","sycom","git","2017-05-18 09:00:00.000000",0
 "DIES","Délégation interministérielle à l'innovation, à l'expérimentation sociale et à l'économie sociale","sycom","git","2017-05-18 09:00:00.000000",0
 "DIF","Droit individuel à la formation","maukoquiroga","glossbot-betagouv","2016-06-16 10:26:47.04378","-"
-"DIF","Droit individuel à la formation","sycom","git","2017-05-18 09:00:00.000000",1
 "DIHP","Délégation de l'information historique pour la paix","sycom","git","2017-05-18 09:00:00.000000",0
 "DIJA","Dotation d'installation aux jeunes agriculteurs","sycom","git","2017-05-18 09:00:00.000000",0
 "DINSIC","Direction Interministérielle du Numérique et des Systèmes d'Information et de Communication - Une des deux divisions du SGMAP depuis septembre 2015.","mattisg","glossbot-betagouv","2016-06-15 17:07:24.466063","-"
@@ -581,8 +570,7 @@
 "EHPAD","Etablissement hébergeant des personnes âgées dépendantes","sycom","git","2017-05-18 09:00:00.000000",0
 "EID","Electronic Identity Card (Carte d'identité électronique)","sycom","git","2017-05-18 09:00:00.000000",0
 "ELD","Éléments de Langage et de Discours","vince","glossbot-betagouv","2016-07-07 08:37:03.25276","-"
-"ENA","école nationale d’administration - Là où les élites dirigeantes sont formées. :bird:","mattisg","glossbot-betagouv","2016-06-24 17:13:55.822139","-"
-"ENA","École Nationale d’Administration","sycom","git","2017-05-18 09:00:00.000000",1
+"ENA","École Nationale d’Administration (Là où les élites dirigeantes sont formées. :bird:)","mattisg","glossbot-betagouv","2016-06-24 17:13:55.822139","-"
 "ENIM","École Nationale d'Ingénieurs de Metz","sycom","git","2017-05-18 09:00:00.000000",0
 "ENM","École Nationale de la Magistrature","sycom","git","2017-05-18 09:00:00.000000",0
 "ENS","École Normale Supérieure","sycom","git","2017-05-18 09:00:00.000000",0
@@ -892,8 +880,7 @@
 "LNPN","Ligne Nouvelle Paris-Normandie","sycom","git","2017-05-11 12:45:00.000000","-"
 "LOLF","Loi organique relative aux lois de finances","sycom","git","2017-05-18 09:00:00.000000",0
 "LOPSI","Loi d'orientation et de programmation pour la sécurité intérieure","sycom","git","2017-05-18 09:00:00.000000",0
-"LOTI","loi n°82-1153 du 30 décembre 1982 d’Orientation des Transports Intérieurs (LOTI) ; prévoit un bilan socio-économique 3 à 5 ans après la mise en service de grandes infrastructures de transport","sycom","git","2017-05-11 12:45:00.000000","-"
-"LOTI","Loi d'orientation des transports intérieurs","sycom","git","2017-05-18 09:00:00.000000",1
+"LOTI","Loi d'orientation des transports intérieurs (loi n°82-1153 du 30 décembre 1982)","sycom","git","2017-05-18 09:00:00.000000",1
 "LSF","Langue des signes française","sycom","git","2017-05-18 09:00:00.000000",0
 "LSI","Loi pour la sécurité intérieure","sycom","git","2017-05-18 09:00:00.000000",0
 "LTS","Logement très social","sycom","git","2017-05-18 09:00:00.000000",0
@@ -906,7 +893,6 @@
 "MATIF","Marché à terme d'instruments financiers","sycom","git","2017-05-18 09:00:00.000000",0
 "MCM","Montants compensatoires monétaires","sycom","git","2017-05-18 09:00:00.000000",0
 "MDPH","Maison Départementale pour les Personnes Handicapées","colin","glossbot-betagouv","2017-01-11 15:03:18.771307","-"
-"MDPH","Maison départementale des personnes handicapées","sycom","git","2017-05-18 09:00:00.000000",1
 "MECSS","Mission d'évaluation et de contrôle de la sécurité sociale","sycom","git","2017-05-18 09:00:00.000000",0
 "MEDEF","Mouvement des entreprises de France (ex CNPF)","sycom","git","2017-05-18 09:00:00.000000",0
 "MEEM","Ministère de l’Environnement, de l’Énergie et de la Mer","jerome","glossbot-betagouv","2016-06-15 19:17:09.55128","-"
@@ -918,7 +904,6 @@
 "MIGAC","Missions d'intérêt général et d'aide à la contractualisation","sycom","git","2017-05-18 09:00:00.000000",0
 "MILDT","Mission interministérielle de lutte contre la drogue et la toxicomanie","sycom","git","2017-05-18 09:00:00.000000",0
 "MIN","Marché d’Intérêt National","sycom","git","2017-05-11 12:45:00.000000","-"
-"MIN","Marché d'intérêt national (Rungis)","sycom","git","2017-05-18 09:00:00.000000",1
 "MINEFI","Ministère de l'économie, des finances et de l'industrie","sycom","git","2017-05-18 09:00:00.000000",0
 "MIPNES","Mission de la pédagogie et du numérique pour l'enseignement supérieur","nicolas","glossbot-betagouv","2016-07-22 07:58:13.975054","-"
 "MIRES","Mission interministérielle ""recherche et enseignement supérieur""","sycom","git","2017-05-18 09:00:00.000000",0
@@ -1053,12 +1038,10 @@
 "PLAS","Projets locaux d'animation sportive","sycom","git","2017-05-18 09:00:00.000000",0
 "PLD","Plafond légal de densité","sycom","git","2017-05-18 09:00:00.000000",0
 "PLH","Programme Local de l’Habitat","sycom","git","2017-05-11 12:45:00.000000","-"
-"PLH","Programme local de l'habitat","sycom","git","2017-05-18 09:00:00.000000",1
 "PLI","Prêt locatif intermédiaire","sycom","git","2017-05-18 09:00:00.000000",0
 "PLR","Programmes de logements à loyer réduit","sycom","git","2017-05-18 09:00:00.000000",0
 "PLS","Prêt locatif social","sycom","git","2017-05-18 09:00:00.000000",0
 "PLU","Plan Local d’Urbanisme","sycom","git","2017-05-11 12:45:00.000000","-"
-"PLU","Plan local d'urbanisme","sycom","git","2017-05-18 09:00:00.000000",1
 "PLUi","Plan Local d’Urbanisme intercommunal","sycom","git","2017-05-11 12:45:00.000000","-"
 "PLUI-H","Plan Local d’Urbanisme intercommunal tenant lieu de programme local de l’habitat","sycom","git","2017-05-11 12:45:00.000000","-"
 "PLUS","Prêt locatif à usage social","sycom","git","2017-05-18 09:00:00.000000",0
@@ -1092,7 +1075,6 @@
 "PPP","Préfecture de Police de Paris","mattisg","glossbot-betagouv","2016-08-02 16:42:50.560147","-"
 "PPP","Partenariat public privé","sycom","git","2017-05-18 09:00:00.000000",1
 "PPR","Plan de Prévention des Risques","sycom","git","2017-05-11 12:45:00.000000","-"
-"PPR","Plan de prévention des risques","sycom","git","2017-05-18 09:00:00.000000",1
 "PPRE","Programme personnalisé de réussite éducative","sycom","git","2017-05-18 09:00:00.000000",0
 "PPRN","Plan de prévention des risques naturels","sycom","git","2017-05-18 09:00:00.000000",0
 "PPRT","Plan de prévention des risques technologiques","sycom","git","2017-05-18 09:00:00.000000",0
@@ -1175,13 +1157,11 @@
 "SCOP","Sociétés coopératives ouvrières de production","sycom","git","2017-05-18 09:00:00.000000",0
 "SCoRAN","Stratégie de Cohérence Régionale d’Aménagement Numérique","sycom","git","2017-05-11 12:45:00.000000","-"
 "SCoT","Schéma de Cohérence Territoriale","sycom","git","2017-05-11 12:45:00.000000","-"
-"SCOT","Schéma de cohérence territoriale","sycom","git","2017-05-18 09:00:00.000000",1
 "SCPI","Société civile de placement immobilier","sycom","git","2017-05-18 09:00:00.000000",0
 "SCPRI","Service central de protection contre les rayonnements ionisants","sycom","git","2017-05-18 09:00:00.000000",0
 "SCT","Schéma de cohérence territoriale","sycom","git","2017-05-18 09:00:00.000000",0
 "SDAASP","Schéma Départemental d’Amélioration de l’Accessibilité des Services au Public","sycom","git","2017-05-11 12:45:00.000000","-"
 "SDAGE","Schéma Directeur d'Aménagement et de Gestion des Eaux","sycom","git","2017-05-11 12:45:00.000000","-"
-"SDAGE","Schéma directeur d'aménagement et de gestion des eaux","sycom","git","2017-05-18 09:00:00.000000",1
 "SDAU","Schéma directeur d'aménagement et d'urbanisme","sycom","git","2017-05-18 09:00:00.000000",0
 "SDDS","Schéma directeur départemental des structures","sycom","git","2017-05-18 09:00:00.000000",0
 "SDECE","Service de documentation extérieure et de contre-espionnage","sycom","git","2017-05-18 09:00:00.000000",0
@@ -1327,7 +1307,6 @@
 "UFAC","Union française des associations d'anciens combattants et de victimes de guerre","sycom","git","2017-05-18 09:00:00.000000",0
 "UFR","Unité de formation et de recherche","sycom","git","2017-05-18 09:00:00.000000",0
 "UGAP","Union des Groupements d'Achats Public","colin","glossbot-betagouv","2016-10-19 10:16:40.505424","-"
-"UGAP","Union des groupements d'achats publics","sycom","git","2017-05-18 09:00:00.000000",1
 "UGB","Unité de gros bétail","sycom","git","2017-05-18 09:00:00.000000",0
 "UGC","Union générale cinématographique","sycom","git","2017-05-18 09:00:00.000000",0
 "ULAM","Unités littorales des affaires maritimes","sycom","git","2017-05-18 09:00:00.000000",0
@@ -1337,7 +1316,6 @@
 "UNAPEI","Union nationale des associations de parents et amis de personnes handicapées mentales","sycom","git","2017-05-18 09:00:00.000000",0
 "UNCAM","Union nationale des caisses d'assurance-maladie","sycom","git","2017-05-18 09:00:00.000000",0
 "UNEDIC","Union nationale pour l'emploi dans l'industrie et le commerce","sycom","git","2017-05-18 09:00:00.000000",0
-"UNESCO","Organisation des Nations Unies pour l'éducation la science et la culture","sycom","git","2017-05-11 12:45:00.000000","-"
 "UNESCO","United nations educational, scientific and cultural organisation (Organisation des Nations unies pour l'éducation, la science et la culture)","sycom","git","2017-05-18 09:00:00.000000",1
 "UNIL","Union nationale interprofessionnelle du logement","sycom","git","2017-05-18 09:00:00.000000",0
 "UNOCAM","Union nationale des organismes d'assurance maladie complémentaire","sycom","git","2017-05-18 09:00:00.000000",0
