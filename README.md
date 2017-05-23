@@ -1,7 +1,7 @@
 # RCAUAF
 *Répertoire Collaboratif des Acronymes en Usage dans l'Administration Française*
 
-Ce répertoire est une modeste tentative pour rendre plus intelligible le dialecte administratif. Il est basé sur le vocabulaire accumulé par le slackbot de l'incubateur beta.gouv.fr qui vit sur https://startups-detat.slack.com.
+Ce répertoire est une modeste tentative pour rendre plus intelligible le dialecte administratif. Basé sur le vocabulaire accumulé par le slackbot de l'incubateur beta.gouv.fr qui vit sur https://startups-detat.slack.com, il a été enrichi par d'autres listes de sigles et d'abréviations existantes dont [celle du Sénat](http://www.senat.fr/histoire/sigles.html).
 
 
 ## Utilisation
